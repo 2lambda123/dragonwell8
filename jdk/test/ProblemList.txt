@@ -442,3 +442,10 @@ java/lang/invoke/LFCaching/LFGarbageCollectedTest.java generic-all
 java/util/AbstractList/CheckForComodification.java generic-all
 java/lang/StringBuilder/HugeCapacity.java generic-all
 
+############################################################################
+
+# china mainland network
+
+############################################################################
+
+security/infra/java/security/cert/CertPathValidator/certification/CertignaCA.java generic-all
